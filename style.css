@@ -4,6 +4,7 @@
 html, body {
   padding: 0px;
   margin: 0px;
+  scroll-behavior: smooth;
 }
 body {
   background-color: #F5F8FA;
@@ -52,7 +53,7 @@ section {
   position: fixed;
   z-index: 5;
   margin-top: 35vh;
-  box-shadow: 0px 0px 8px 1px #1DA1F2;
+  box-shadow: 0px 0px 8px 1px #657786;
 }
 .menu p {
   font-size: 20px;
@@ -95,7 +96,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0px 0px 8px 1px #1DA1F2;
+  box-shadow: 0px 0px 8px 2px #657786;
 }
 .glide__slide {
   background-color: #E1E8ED;
